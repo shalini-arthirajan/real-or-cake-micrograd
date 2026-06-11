@@ -11,7 +11,7 @@ The output is probably confidently wrong
 ## Why is it terrible?
 - dataset was frankly too small (100 images - 50 real objects (from shoes to plants) and 50 yummy cakes)
 - all images were resized to 8x8 px, leaving out a lot of visual information for the model
-- relies solely on micrograd's multi-layer perceptron (mlp) instead of convolutional neural networks or deep learning libarires like pytorch
+- relies solely on micrograd's multi-layer perceptron (MLP) instead of convolutional neural networks (CNNs) or deep learning libarires like PyTorch
 
 ## Accuracy
 
