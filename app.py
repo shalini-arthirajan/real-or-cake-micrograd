@@ -76,4 +76,5 @@ demo = gr.Interface(
     theme=theme
 )
 
-demo.launch()
+if __name__ == "__main__":
+    demo.launch()
