@@ -1,6 +1,6 @@
 # Real or Cake?
 
-Test it here : 
+Test it here : https://huggingface.co/spaces/build-small-hackathon/Worst-Cake-Classifier
 
 A terrible binary image classifier built on top of Andrej Karpathy's Micrograd and trained on a tiny handmade dataset of 100 images.
 
