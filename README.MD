@@ -4,6 +4,8 @@ Test it here : https://huggingface.co/spaces/build-small-hackathon/Worst-Cake-Cl
 
 A terrible binary image classifier built on top of Andrej Karpathy's Micrograd and trained on a tiny handmade dataset of 100 images.
 
+because the viral "Real or Cake" trend wasn't enough, I tried to teach a neural network how to do it and it fails miserably.
+
 The output is probably confidently wrong
 
 ## Why is it terrible?
@@ -13,8 +15,8 @@ The output is probably confidently wrong
 
 ## Accuracy
 
-Training: 70%
-Testing: 60%
+-Training: 70%
+-Testing: 60%
 
 ## Run
 
